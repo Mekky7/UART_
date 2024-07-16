@@ -1,2 +1,2 @@
-# UART_TX
+# UART_TX and RX
 
