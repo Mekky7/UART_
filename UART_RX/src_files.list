@@ -1,0 +1,9 @@
+data_sampling.v
+deserializer.v
+Edge_bit_counter.v
+FSM.v
+Parity_check.v
+stp_Check.v
+strt_Check.v
+TOP.v
+TB.v

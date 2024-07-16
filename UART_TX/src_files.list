@@ -1,0 +1,6 @@
+FSM.v
+MUX.v
+parity_Calc.v
+serializer.v
+TOP.v
+TB.v
